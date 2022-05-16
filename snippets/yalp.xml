@@ -18,7 +18,7 @@
 
   <project name="manifest" path="android" remote="yalp" />
   <project name="android_packages_apps_Launcher3" path="packages/apps/Launcher3" remote="yalp" />
-  <project name="android_vendor_YALP" path="vendor/yalp" remote="yalp" />
+  <project name="android_vendor_YALP" path="vendor/lineage" remote="yalp" />
   <project name="android_packages_apps_Settings" path="packages/apps/Settings" remote="yalp" groups="pdk-fs" />
   <project name="android_frameworks_base" path="frameworks/base" remote="yalp" groups="pdk-cw-fs,pdk-fs" />
 
