@@ -1,1 +1,29 @@
+Project YALP
+===========
 
+Getting started
+---------------
+
+To get started with Android/Project YALP, you'll need to get familiar with [Source Control Tools](https://source.android.com/setup/develop).
+
+To initialize your local repository using the YALP trees, use a command like this:
+```
+repo init -u https://github.com/Project-YALP-OS/manifest.git -b snowcone
+```
+Then to sync up:
+```
+repo sync --force-sync
+```
+Please see the [LineageOS Wiki](https://wiki.lineageos.org/) for building instructions, by device.
+
+Credits:
+--------
+* [Lineage OS](https://github.com/LineageOS)
+* [AOSP](https://android.googlesource.com/platform)
+* [crDroid](https://github.com/crdroidandroid)
+* [Project Sakura](https://github.com/ProjectSakura)
+* [Pixel Experience](https://github.com/PixelExperience)
+* [Arrow OS](https://github.com/ArrowOS)
+* [amyROM](https://github.com/amyROM)
+* [Evolution X](https://github.com/Evolution-X)
+* and many more...
