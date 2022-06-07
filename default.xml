@@ -21,6 +21,9 @@
            fetch="https://gitlab.com/MindTheGapps/"
            revision="sigma" />
 
+  <remote name="vdk"
+	  fetch="https://github.com/droid-ng"
+	  revision="ng-v2" />
 
   <default revision="refs/heads/lineage-19.1"
            remote="github"
