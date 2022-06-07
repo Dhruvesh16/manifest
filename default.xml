@@ -17,6 +17,11 @@
            fetch="https://github.com/Project-YALP-OS"
            revision="snowcone" />
 
+  <remote name="Mgapps"
+           fetch="https://gitlab.com/MindTheGapps/"
+           revision="sigma" />
+
+
   <default revision="refs/heads/lineage-19.1"
            remote="github"
            sync-c="true"
