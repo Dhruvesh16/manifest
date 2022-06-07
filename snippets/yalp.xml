@@ -26,4 +26,7 @@
   <project name="packages_apps_Updates" path="packages/apps/Updates" remote="yalp" />
   <project name="kdrag0n/android_packages_apps_RepainterServicePriv" path="packages/apps/RepainterServicePriv" remote="github" revision="main" />
 
+  <!-- MindTheGapps -->
+  <project path="vendor/gapps" name="vendor_gapps" clone-depth="1" remote="Mgapps" />
+
 </manifest>
