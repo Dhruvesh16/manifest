@@ -17,17 +17,19 @@
 
 
   <project name="manifest" path="android" remote="yalp" />
-  <project name="android_packages_apps_Launcher3" path="packages/apps/Launcher3" remote="yalp" />
   <project name="android_vendor_YALP" path="vendor/lineage" remote="yalp" />
-  <project name="android_packages_apps_Settings" path="packages/apps/Settings" remote="yalp" groups="pdk-fs" />
   <project name="android_frameworks_base" path="frameworks/base" remote="yalp" groups="pdk-cw-fs,pdk-fs" />
+
+  <project name="android_packages_apps_Launcher3" path="packages/apps/Launcher3" remote="yalp" />
+  <project name="android_packages_apps_Settings" path="packages/apps/Settings" remote="yalp" groups="pdk-fs" />
   <project name="android_packages_apps_SetupWizard" path="packages/apps/SetupWizard" remote="yalp" />
   <project name="packages_apps_GameSpace" path="packages/apps/GameSpace" remote="yalp" />
   <project name="packages_apps_Updater" path="packages/apps/Updater" remote="yalp" />
+  <project name="packages_apps_YALPSTORE" path="packages/apps/YALPSTORE" remote="yalp" />
   <project name="kdrag0n/android_packages_apps_RepainterServicePriv" path="packages/apps/RepainterServicePriv" remote="github" revision="main" />
 
   <!-- MindTheGapps -->
-  <project path="vendor/gapps" name="vendor_gapps" remote="Mgapps" />
+  <project name="vendor_gapps" path="vendor/gapps" remote="Mgapps" />
 
   <!-- droid-ng mtk stuff -->
   <project name="android_device_mediatek_sepolicy_vndr" path="device/mediatek/sepolicy_vndr" remote="vdk" />
