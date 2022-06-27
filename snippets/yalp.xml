@@ -23,7 +23,6 @@
   <project name="android_packages_apps_Launcher3" path="packages/apps/Launcher3" remote="yalp" />
   <project name="android_packages_apps_Settings" path="packages/apps/Settings" remote="yalp" groups="pdk-fs" />
   <project name="android_packages_apps_SetupWizard" path="packages/apps/SetupWizard" remote="yalp" />
-  <project name="packages_apps_GameSpace" path="packages/apps/GameSpace" remote="yalp" />
   <project name="packages_apps_Updater" path="packages/apps/Updater" remote="yalp" />
   <project name="packages_apps_YALPSTORE" path="packages/apps/YALPSTORE" remote="yalp" />
   <project name="android_packages_apps_Backgrounds" path="packages/apps/Backgrounds" remote="yalp" />
